@@ -1,0 +1,7 @@
+Pocet znakov: 9
+Pocet zadaných èísel: 4
+Dlzky jednotlivych cisel:
+Cislo 1 ma dlzku: 3 znakov
+Cislo 2 ma dlzku: 2 znakov
+Cislo 3 ma dlzku: 2 znakov
+Cislo 4 ma dlzku: 2 znakov
